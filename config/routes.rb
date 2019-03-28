@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get '/help' => 'pages#help'
   get '/contact' => 'pages#contact'
   get '/how-it-works' => 'pages#how_it_works'
+  get '/contact' => 'pages#contact'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
