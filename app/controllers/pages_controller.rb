@@ -7,4 +7,10 @@ class PagesController < ApplicationController
 
   def help
   end
+
+  def contact
+  end
+
+  def how_it_works
+  end
 end
